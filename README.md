@@ -2,6 +2,8 @@
 
 My Galaga mini arcade cabinet stopped working, so I came up with a Rube Goldberg-esque way to fix it involving robots, Raspberry Pis, and Arduinos.
 
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/teaser.jpg)
+
 ## How It Works
 
 ## Media
