@@ -12,7 +12,7 @@ The arcade operates in two modes — "drive" and "game", which are toggled by th
 
 The robot is outfitted with an Espressif ESP-EYE camera board for FPV streaming, and runs the excellent [ESP32 MJPEG Streaming Server](https://github.com/arkhipenko/esp32-cam-mjpeg) that is super-fast, allowing for sub-second video streaming delays that make the driving and gaming experiences great.  I tried several other video streaming solutions first that were unacceptable, due to having 1 second plus delays.  The video feed is streamed to the Raspberry Pi 4 in the arcade cabinet using VLC.
 
-To use the system, the arcade is put in drive mode, and the robot is driven in front of a TV that is hooked up the the Galaga emulator.  Video of Galaga is now being streamed to the arcade cabinet's display, so the device is switched into game mode.  Now, the arcade controls can be used to control the Galaga emulator.
+To use the system, the arcade is put in drive mode, and the robot is driven in front of a TV that is hooked up to the Galaga emulator.  Video of Galaga is now being streamed to the arcade cabinet's display, so the device is switched into game mode.  Now, the arcade controls can be used to control the Galaga emulator.
 
 ## Media
 
