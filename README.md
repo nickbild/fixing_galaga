@@ -16,6 +16,19 @@ To use the system, the arcade is put in drive mode, and the robot is driven in f
 
 ## Media
 
+YouTube Demo:
+
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/arcade_hw_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/galaga_back_1_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/galaga_back_2_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/galaga_case_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/galaga_pi_2_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/galaga_pi_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/robot_camera_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/robot_front_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/robot_tv_1_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/robot_tv_2_sm.jpg)
+
 ## Bill of Materials
 
 - 1 x Mini arcade cabinet
