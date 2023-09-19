@@ -33,7 +33,7 @@ The arcade cabinet with the Raspberry Pi 4 that powers it:
 Close-up of the ESP-EYE:
 ![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/robot_camera_sm.jpg)
 
-The robot:
+The FPV robot:
 ![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/robot_front_sm.jpg)
 
 The robot playing Galaga:
