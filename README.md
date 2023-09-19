@@ -16,7 +16,7 @@ To use the system, the arcade is put in drive mode, and the robot is driven in f
 
 ## Media
 
-YouTube Demo:
+YouTube Demo: [https://youtu.be/aQhN7fX_rPY](https://youtu.be/aQhN7fX_rPY)
 
 Raspberry Pi 3 and Arduino Nano 33 IoT to emulate Galaga and a keyboard:
 ![](https://raw.githubusercontent.com/nickbild/fixing_galaga/main/media/arcade_hw_sm.jpg)
